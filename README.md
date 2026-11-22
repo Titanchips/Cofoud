@@ -1,5 +1,5 @@
 # Cofoud
-A cofounder matching platform.
+A Tinder-style cofounder matching platform.
 
 To help:
 
